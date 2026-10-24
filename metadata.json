@@ -1,0 +1,7 @@
+{
+  "name": "HogarSync - Administrador Integral del Hogar",
+  "description": "Aplicación centralizada para gestionar facturas y fechas de pago, división de tareas domésticas, calendario de mantenimiento preventivo y recordatorios del hogar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
